@@ -1,0 +1,1068 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bd" = (
+/obj/structure/fluff/metalpole{
+	dir = 4
+	},
+/turf/open/space/basic,
+/area/space)
+"bE" = (
+/obj/machinery/light/directional/west,
+/obj/structure/table/greyscale,
+/turf/open/floor/wood/large,
+/area/space)
+"cp" = (
+/turf/open/floor/wood/large,
+/area/space)
+"de" = (
+/turf/open/floor/catwalk_floor/iron_dark/airless,
+/area/space)
+"dJ" = (
+/obj/structure/noticeboard,
+/turf/closed/wall,
+/area/space)
+"eK" = (
+/obj/structure/bedsheetbin/empty,
+/obj/structure/table/wood,
+/obj/structure/table/wood,
+/turf/open/floor/iron/kitchen/small,
+/area/space)
+"eY" = (
+/obj/structure/chair/comfy{
+	color = "#596479";
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/space)
+"ix" = (
+/obj/machinery/light/small/blacklight/directional/east,
+/turf/open/floor/iron/kitchen/small,
+/area/space)
+"iG" = (
+/obj/structure/sign/clock,
+/turf/closed/wall,
+/area/space)
+"kq" = (
+/obj/structure/chair/sofa/left/maroon,
+/turf/open/floor/wood/large,
+/area/space)
+"kN" = (
+/obj/structure/fluff/metalpole{
+	dir = 1
+	},
+/obj/structure/fluff/metalpole{
+	dir = 8
+	},
+/turf/open/space/basic,
+/area/space)
+"kV" = (
+/obj/structure/chair/comfy{
+	color = "#596479";
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/space)
+"ls" = (
+/obj/structure/sink/basin/directional/east,
+/obj/structure/table/wood,
+/turf/open/floor/iron/kitchen/small,
+/area/space)
+"lF" = (
+/obj/structure/fluff/metalpole{
+	dir = 1
+	},
+/obj/structure/fluff/metalpole{
+	dir = 4
+	},
+/turf/open/space/basic,
+/area/space)
+"mw" = (
+/obj/structure/fake_stairs/directional/east,
+/turf/open/floor/catwalk_floor/iron_dark/airless,
+/area/space)
+"mO" = (
+/turf/open/floor/wood/parquet,
+/area/space)
+"nq" = (
+/obj/structure/railing{
+	dir = 1;
+	icon_state = "railing"
+	},
+/turf/open/floor/catwalk_floor/iron_dark/airless,
+/area/space)
+"nX" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/structure/fluff/metalpole/anchor{
+	dir = 1
+	},
+/turf/open/space/basic,
+/area/space)
+"oa" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood/large,
+/area/space)
+"qS" = (
+/obj/structure/bed/double,
+/obj/structure/bed/double,
+/turf/open/floor/wood/airless,
+/area/space)
+"rg" = (
+/obj/structure/sign/poster,
+/turf/closed/wall,
+/area/space)
+"rH" = (
+/turf/open/floor/wood/airless,
+/area/space)
+"su" = (
+/obj/machinery/door/airlock/abductor,
+/turf/open/floor/wood/parquet,
+/area/space)
+"ti" = (
+/obj/structure/fluff/metalpole{
+	dir = 8
+	},
+/turf/open/space/basic,
+/area/space)
+"wM" = (
+/turf/open/floor/iron/kitchen/small,
+/area/space)
+"xl" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/wood/large,
+/area/space)
+"xy" = (
+/obj/structure/toilet{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/space)
+"xE" = (
+/obj/structure/chair/sofa/right/maroon,
+/turf/open/floor/wood/large,
+/area/space)
+"yz" = (
+/obj/machinery/door/airlock/bathroom,
+/turf/open/floor/iron/kitchen,
+/area/space)
+"zc" = (
+/obj/structure/table/greyscale,
+/obj/machinery/light/directional/east,
+/turf/open/floor/wood/large,
+/area/space)
+"zS" = (
+/obj/structure/mirror,
+/turf/closed/wall,
+/area/space)
+"Ap" = (
+/obj/machinery/door/window/survival_pod/left/directional/west,
+/turf/open/floor/wood/large,
+/area/space)
+"Bm" = (
+/obj/structure/outfit_wardrobe,
+/turf/open/floor/wood/airless,
+/area/space)
+"BB" = (
+/obj/structure/curtain/bounty,
+/turf/open/floor/iron/kitchen/small,
+/area/space)
+"BM" = (
+/obj/structure/window/reinforced/shuttle/spaceship,
+/obj/structure/grille,
+/turf/open/space/basic,
+/area/space)
+"BX" = (
+/obj/structure/dresser,
+/turf/open/floor/wood/airless,
+/area/space)
+"Cj" = (
+/obj/machinery/light/directional/east,
+/turf/open/floor/wood/large,
+/area/space)
+"Cs" = (
+/obj/structure/plaque,
+/turf/closed/wall,
+/area/space)
+"Dg" = (
+/turf/open/space/basic,
+/area/space)
+"DY" = (
+/obj/structure/table/wood/fancy/blue,
+/turf/open/floor/wood/airless,
+/area/space)
+"Gr" = (
+/obj/structure/chair/sofa/middle/maroon,
+/turf/open/floor/wood/large,
+/area/space)
+"Hq" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/wood/large,
+/area/space)
+"If" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/catwalk_floor/iron_dark/airless,
+/area/space)
+"Om" = (
+/obj/structure/fake_stairs/directional/east,
+/obj/structure/railing{
+	dir = 4;
+	pixel_y = 0
+	},
+/turf/open/floor/catwalk_floor/iron_dark/airless,
+/area/space)
+"PM" = (
+/obj/structure/table/greyscale,
+/turf/open/floor/wood/large,
+/area/space)
+"QI" = (
+/turf/open/floor/plating,
+/area/space)
+"QJ" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/wood/parquet,
+/area/space)
+"TC" = (
+/obj/structure/chair/office/light,
+/turf/open/floor/wood/airless,
+/area/space)
+"TG" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/catwalk_floor/iron_dark/airless,
+/area/space)
+"VB" = (
+/obj/structure/table/wood/fancy/red,
+/turf/open/floor/wood/large,
+/area/space)
+"VI" = (
+/turf/closed/wall,
+/area/space)
+"WH" = (
+/turf/open/floor/carpet/red,
+/area/space)
+"WS" = (
+/obj/structure/bed/double,
+/turf/open/floor/wood/airless,
+/area/space)
+"Xt" = (
+/obj/structure/sign/painting,
+/turf/closed/wall,
+/area/space)
+"XQ" = (
+/obj/structure/filingcabinet,
+/turf/open/floor/wood/large,
+/area/space)
+
+(1,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(2,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(3,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(4,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(5,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+VI
+VI
+zS
+VI
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(6,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+BB
+eK
+ls
+xy
+VI
+bd
+bd
+bd
+bd
+bd
+bd
+lF
+Dg
+Dg
+"}
+(7,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+BB
+ix
+wM
+wM
+VI
+If
+If
+If
+If
+If
+If
+nX
+Dg
+Dg
+"}
+(8,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+VI
+VI
+VI
+VI
+Xt
+VI
+VI
+VI
+yz
+VI
+VI
+de
+de
+de
+de
+de
+nX
+Dg
+Dg
+"}
+(9,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+oa
+oa
+bE
+oa
+cp
+kV
+iG
+cp
+cp
+cp
+VI
+Ap
+VI
+VI
+mw
+nq
+nX
+Dg
+Dg
+"}
+(10,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+dJ
+oa
+cp
+cp
+cp
+cp
+VB
+QJ
+cp
+cp
+cp
+cp
+cp
+cp
+VI
+mw
+nq
+nX
+Dg
+Dg
+"}
+(11,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+oa
+cp
+cp
+cp
+cp
+eY
+QJ
+cp
+cp
+cp
+cp
+cp
+cp
+VI
+Om
+nq
+nX
+Dg
+Dg
+"}
+(12,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+cp
+cp
+cp
+cp
+cp
+cp
+mO
+cp
+cp
+oa
+cp
+cp
+cp
+VI
+de
+de
+nX
+Dg
+Dg
+"}
+(13,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+VI
+QJ
+QJ
+QJ
+mO
+mO
+mO
+cp
+cp
+xE
+WH
+WH
+Hq
+BM
+de
+de
+nX
+Dg
+Dg
+"}
+(14,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Xt
+cp
+PM
+PM
+cp
+cp
+cp
+cp
+cp
+cp
+Gr
+WH
+WH
+Hq
+BM
+TG
+TG
+nX
+Dg
+Dg
+"}
+(15,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+QI
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+kq
+WH
+WH
+Hq
+BM
+ti
+ti
+kN
+Dg
+Dg
+"}
+(16,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+QI
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+cp
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(17,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+cp
+PM
+zc
+XQ
+cp
+cp
+cp
+Cj
+cp
+xl
+xl
+cp
+cp
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(18,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+Xt
+dJ
+Cs
+Xt
+VI
+su
+VI
+VI
+rg
+VI
+VI
+VI
+VI
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(19,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+rH
+rH
+rH
+rH
+rH
+Bm
+Bm
+rH
+rH
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(20,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+rH
+rH
+rH
+rH
+rH
+rH
+rH
+TC
+DY
+BM
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(21,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+rH
+rH
+rH
+rH
+rH
+rH
+rH
+rH
+DY
+BM
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(22,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+rH
+rH
+rH
+WS
+WS
+rH
+rH
+rH
+DY
+BM
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(23,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+rH
+rH
+BX
+WS
+qS
+BX
+rH
+rH
+rH
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(24,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+VI
+VI
+VI
+Xt
+VI
+VI
+Xt
+Xt
+VI
+VI
+VI
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(25,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(26,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(27,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(28,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(29,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}
+(30,1,1) = {"
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+Dg
+"}

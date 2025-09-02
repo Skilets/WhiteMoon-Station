@@ -306,7 +306,7 @@
 	primary_color = COLOR_MAROON
 
 /obj/effect/overlay/gas
-	icon = 'icons/effects/atmospherics.dmi'
+	icon = 'modular_zzz/icons/effects/atmospherics.dmi'
 	mouse_opacity = MOUSE_OPACITY_TRANSPARENT
 	anchored = TRUE  // should only appear in vis_contents, but to be safe
 	layer = FLY_LAYER

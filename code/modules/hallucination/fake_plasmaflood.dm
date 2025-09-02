@@ -10,7 +10,7 @@
 	var/list/image/flood_images = list()
 	var/list/obj/effect/plasma_image_holder/flood_image_holders = list()
 	var/list/turf/flood_turfs = list()
-	var/image_icon = 'icons/effects/atmospherics.dmi'
+	var/image_icon = 'modular_zzz/icons/effects/atmospherics.dmi'
 	var/image_state = "plasma"
 	var/radius = 0
 	var/next_expand = 0

@@ -321,7 +321,7 @@ GLOBAL_VAR_INIT(cops_arrived, FALSE)
 			nuke_request(reason, user)
 			to_chat(user, span_notice("Request sent."))
 			user.log_message("has requested the nuclear codes from CentCom with reason \"[reason]\"", LOG_SAY)
-			priority_announce("Коды для ядерного самоуничтожения на станции были запрошены [user]. Подтверждение или отклонение этого запроса будет отправлено в ближайшее время.", "Запрошены коды ядерного самоуничтожения", SSstation.announcer.get_rand_report_sound())
+			priority_announce("Коды для ядерного самоуничтожения на станции были запрошены [user]. Подтверждение или отклонение этого запроса будет отправлено в ближайшее время.", "Запрошены коды ядерного самоуничтожения", ANNOUNCER_COMMAND_REPORT) // SPLURT EDIT
 			playsound(src, 'sound/machines/terminal/terminal_prompt.ogg', 50, FALSE)
 			COOLDOWN_START(src, important_action_cooldown, IMPORTANT_ACTION_COOLDOWN)
 		if ("restoreBackupRoutingData")

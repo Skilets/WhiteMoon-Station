@@ -24,7 +24,7 @@
 	var/list/original_messages = message.Copy()
 
 	// Handle different intents
-	switch(resolve_intent_name(user.combat_mode))
+	switch(resolve_intent_name(user))
 		if("harm")
 			message = list(
 				"bites %TARGET%'s nipple.",
@@ -59,7 +59,7 @@
 			milk_multiplier = 1 + (3 * (breasts.reagents.total_volume / breasts.internal_fluid_maximum))
 
 		var/transfer_amount = rand(2, 4 * milk_multiplier)
-		var/intent = resolve_intent_name(user.combat_mode)
+		var/intent = resolve_intent_name(user)
 		if(intent == "harm" || intent == "grab")
 			transfer_amount = rand(2, 6 * milk_multiplier) // More aggressive sucking gets more milk
 
@@ -70,7 +70,7 @@
 
 	if(!user.combat_mode && prob(5 + target.arousal))
 		var/list/arousal_messages
-		switch(resolve_intent_name(user.combat_mode))
+		switch(resolve_intent_name(user))
 			if("help")
 				arousal_messages = list(
 					"%TARGET% shivers in arousal.",

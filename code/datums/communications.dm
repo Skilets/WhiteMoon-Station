@@ -115,7 +115,7 @@ GLOBAL_DATUM_INIT(communications_controller, /datum/communciations_controller, n
 				в настоящее время нет никаких реальных угроз для [station_name()]. \
 				Все Цели Смены были одобрены. Обеспечьте себе безопасную смену!",
 			"Диспетчерская Служба",
-			SSstation.announcer.get_rand_report_sound(),
+			ANNOUNCER_COMMAND_REPORT, // SPLURT EDIT
 			color_override = "green",
 		)
 	else if(CONFIG_GET(flag/roundstart_blue_alert))
@@ -132,7 +132,7 @@ GLOBAL_DATUM_INIT(communications_controller, /datum/communciations_controller, n
 		priority_announce(
 			"Сводка ситуации на станции была скопирована и распечатана на всех пультах связи.",
 			"Диспетчерская Служба",
-			SSstation.announcer.get_rand_report_sound(),
+			ANNOUNCER_COMMAND_REPORT, // SPLURT EDIT
 		)
 
 #endif
